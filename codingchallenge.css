@@ -1,0 +1,67 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.contenitore {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  margin: 200px;
+  padding: 80px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  width: 200px;
+  display:block;
+  margin:0px auto;
+}
+
+header {
+  color: Lime;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+nav {
+  background-color: Lime;
+  text-align: center;
+  padding: 6px;
+}
+
+.sectiontitle {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.arrow:after {
+  content: "\21A6";
+}
+
+.info {
+  font-size: 13px;
+}
+
+.statocarica1 {
+  background-color: SandyBrown;
+  width: 300px;
+  height: 22px;
+  border-radius: 4px;
+}
+
+.statocarica2 {
+  background-color: LimeGreen;
+  width: 500px;
+  height: 22px;
+  border-radius: 4px;
+}
+
+.statocarica3 {
+  background-color: Crimson;
+  width: 100px;
+  height: 22px;
+  border-radius: 4px;
+}
